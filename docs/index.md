@@ -20,7 +20,7 @@ Please email us with:
 Frogie Blast currently does **not** show ads. If we add third‑party ads or analytics in the future, we will update our privacy policy.
 
 ### I want my data deleted
-Frogie Blast does not require an account. If you’d like help resetting local progress on your device, email us.
+See **Data deletion requests** in our [Privacy Policy](privacy.md): uninstalling the App or clearing its storage removes on-device progress; you can also email us using the subject line **“Data deletion request — Frogie Blast”** for any personal data we may hold (for example, from support correspondence).
 
 ## Privacy Policy
 Read here: [Privacy Policy](privacy.md)
